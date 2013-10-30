@@ -4,3 +4,8 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+*.iml
+*.iws
+*.ipr
+.idea
+.classpath
